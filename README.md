@@ -1,5 +1,4 @@
-# ChatGPT-Mini-Cheat-Sheet-Chinese-version
-ChatGPT Mini Cheat Sheet中文版
+# ChatGPT Mini Cheat Sheet中文版
 
 这本迷你电子书的重点是向你展示提示，每个带有新提示的页面都包含 3 个基本部分：
 - Prompt(提示) - 我最喜欢的请求ChatGPT 响应的用例。只需将其复制粘贴到输入框中，然后按回车键。
